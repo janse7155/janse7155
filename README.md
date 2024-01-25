@@ -2,9 +2,9 @@
 
 <div align="center"
 <h1 align="center">Hi, I'm Jaedan Seabaugh</h1>
-<h3 align="center">Jaedan Seabaugh is a high school senior from Central High School in Cape Girardeau, Missouri. He knows front end development, and is learning back end development as well as game design. For education, he is pursuing further education and training through the Career and Technology Center, and plans to attend SEMO for a Bachelor's Degree in Computer Science after which he plans to become a Full Stack Developer.</h3>
+<h3 align="center">Jaedan Seabaugh is a post-secondary student from the Cape Girardeau Career and Technology Center in Cape Girardeau, Missouri. He knows front-end development and is learning back-end development and game design. For education, he is pursuing further education and training through the Career and Technology Center and plans to attend SEMO for a Bachelor's Degree in Computer Science after which he plans to become a Full Stack Developer.</h3>
 
-<h4> I’m currently learning **Sass, Godot 4, Angular** </h4>
+<h4> I’m currently learning **Sass, Unity, Angular, C#, and Node.js** </h4>
 
 
 
